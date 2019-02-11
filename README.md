@@ -1,5 +1,5 @@
 # Dependencies
-  Required DPDK commit 1ffee690eaa10b1b50deb230755ea4ceaa373e0f
+  Requires DPDK. DPDK applications all required sudo access
 
 # Build
 ```
