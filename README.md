@@ -1,5 +1,5 @@
 # Dependencies
-  Requires DPDK. DPDK applications all required sudo access
+  Requires DPDK. DPDK applications all required sudo access.
 
 # Build
 ```
